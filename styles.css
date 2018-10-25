@@ -27,4 +27,5 @@ div {
   margin: 20px; 
   padding: 5px;
   background-color: white;
+  border: 3px 3px solid red;
 }
