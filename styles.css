@@ -19,10 +19,12 @@ h1 {
 p {
   font-size: 17px; 
   text-align: left;
+  text-color: black;
 }
 
 div {
   width: 600px; 
   margin: 20px; 
   padding: 5px;
+  background-color: white;
 }
