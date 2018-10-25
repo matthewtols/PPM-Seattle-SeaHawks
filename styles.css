@@ -24,10 +24,11 @@ p {
 
 div {
   width: 600px; 
-  margin: 20px; 
+  margin: 20px auto; 
   padding: 5px;
   background-color: white;
   border: 3px 3px solid red;
+  
 }
 
 ul {
