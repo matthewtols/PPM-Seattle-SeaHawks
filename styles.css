@@ -37,3 +37,17 @@ ul {
   text-align: left;
   text-color: black;
 }
+
+a {
+  color: #0000cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
