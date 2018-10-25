@@ -1,13 +1,13 @@
 .title {
   font-size: 25px;
-  font-family: Arial, sans serif, serif;
+  font-family: 'Anton', sans-serif;
   color: red;
   text-align: center;
 }
 
 h1 {
   font-size: 40px;
-  font-family: Arial, sans serif, serif;
+  font-family: 'Anton', sans-serif;
   color: darkblue;
   text-align: center;
 }
