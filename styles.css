@@ -45,11 +45,11 @@ a {
 }
 
 a:hover {
-  text-decoration: bold;
+  text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #0000cc;
   text-decoration: none;
 }
 
