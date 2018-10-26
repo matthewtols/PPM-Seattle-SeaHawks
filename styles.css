@@ -65,4 +65,7 @@ img {
   text-align: center;
   border: 3px solid darkorange;
   background-color: orange;
+  width: 100%;
+  padding: 10px;
+  margin: 0px 0px;
 }
