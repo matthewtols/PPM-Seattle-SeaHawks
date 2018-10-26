@@ -1,6 +1,8 @@
 html {
   background-color: rgb(50, 50, 175);
   letter-spacing: 2px;
+  background-image: url("images/hockey-sticks.png") no-repeat center fixed;
+  background-size: cover;
 }
 
 .introducing {
