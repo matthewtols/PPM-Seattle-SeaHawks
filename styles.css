@@ -59,3 +59,10 @@ img {
   height: 224px;
   width: 225px;
 }
+
+.bottom {
+  font-size: 12px;
+  text-align: center;
+  border: 3px solid darkorange;
+  background-color: orange;
+}
