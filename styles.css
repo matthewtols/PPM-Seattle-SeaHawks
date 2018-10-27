@@ -1,7 +1,5 @@
 html {
   background-color: rgb(50, 50, 175);
-  background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
-  background-size: cover;
 }
 
 .introducing {
@@ -80,3 +78,7 @@ img {
   text-align: center;
 }
   
+.backgroundpic {
+  background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
+  background-size: cover;
+}
