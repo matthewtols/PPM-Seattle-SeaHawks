@@ -58,7 +58,6 @@ a:visited {
 img {
   height: 224px;
   width: 225px;
-  text-align: center;
 }
 
 .bottom {
@@ -76,3 +75,8 @@ img {
 .link {
   text-align: center;
 }
+
+.picture {
+  text-align: center;
+}
+  
