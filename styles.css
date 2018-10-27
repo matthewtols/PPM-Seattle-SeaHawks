@@ -58,6 +58,7 @@ a:visited {
 img {
   height: 224px;
   width: 225px;
+  text-align: center;
 }
 
 .bottom {
