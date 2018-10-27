@@ -82,3 +82,7 @@ img {
   background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
   background-size: cover;
 }
+
+ul {
+  line-spacing: double;
+}
