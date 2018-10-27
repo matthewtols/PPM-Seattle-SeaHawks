@@ -1,5 +1,6 @@
 html {
-  background-color: rgb(50, 50, 175);
+  background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
+  background-size: cover;
 }
 
 .introducing {
@@ -37,7 +38,6 @@ ul {
   font-size: 17px; 
   text-align: left;
   text-color: black;
-  line-spacing: 3px;
 }
 
 a {
@@ -79,7 +79,3 @@ img {
   text-align: center;
 }
   
-.backgroundpic {
-  background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
-  background-size: cover;
-}
