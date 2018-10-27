@@ -37,6 +37,7 @@ ul {
   font-size: 17px; 
   text-align: left;
   text-color: black;
+  line-spacing: double;
 }
 
 a {
@@ -81,8 +82,4 @@ img {
 .backgroundpic {
   background-image: url("images/hockey-sticks.jpg") no-repeat center fixed;
   background-size: cover;
-}
-
-ul {
-  line-spacing: double;
 }
